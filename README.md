@@ -1,5 +1,5 @@
 # Reminder-V1.2
-A reminder app that will help on daily events.
+A reminder app that will help on daily events. App can notify you on exact time of the event via message pop up box / message box also store your daily events for the year.
 
 # View events for the day , get notifications and much more
 ![Alt text](https://image.ibb.co/iBbB0y/wo.png "Screenshot")
