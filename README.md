@@ -32,3 +32,4 @@ A reminder app that will help on daily events.
 - ASP.NET
 - Language : c#
 - Microsoft sql express 2012 ( anyway it is just a simple table with 3 columns as mentioned above)
+- You can find databasefile.sql is in the root dir.
