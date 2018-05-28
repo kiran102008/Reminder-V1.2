@@ -1,0 +1,10 @@
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\bin\Debug\Reminderappv1.2.exe.config
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\bin\Debug\Reminderappv1.2.exe
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\bin\Debug\Reminderappv1.2.pdb
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1.2.csprojResolveAssemblyReference.cache
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1._2.Form1.resources
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1._2.Properties.Resources.resources
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1.2.csproj.GenerateResource.Cache
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1.2.csproj.CoreCompileInputs.cache
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1.2.exe
+C:\Users\K4\source\repos\Reminderappv1.2\Reminderappv1.2\obj\Debug\Reminderappv1.2.pdb
